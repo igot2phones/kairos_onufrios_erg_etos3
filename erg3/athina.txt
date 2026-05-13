@@ -1,0 +1,28 @@
+Apotelesmata analysis radiovolisis
+Stathmos: Athinai Hellinikon
+Imerominia/ora: 2026-05-13 12:00 UTC
+
+Epifaneiakes times:
+  T  = 25.48 °C
+  Td = 9.93 °C
+  T - Td = 15.55 K
+
+Proseggistikoi ypologismoi (statheres adiavatikes thermovathmides):
+  Gamma_d   = 9.8 K/km (ksiros aeras)
+  Gamma_dew = 1.8 K/km (simeio drosou)
+
+  LCL  (epipedo sympyknosis logo eksanagasmenis anodou)
+    ipsos panw apo tin epifaneia: 1944 m
+    geodynamiko ipsos:            1987 m
+
+  CCL  (epipedo sympyknosis logo thermikis metaforas)
+    ipsos panw apo tin epifaneia: 3123 m
+    geodynamiko ipsos:            3166 m
+    T sto CCL:                    4.31 °C
+
+  TCON (thermokrasia enausis):    34.91 °C
+
+Antistoixes times apo to windy.com:
+  LCL: —  (sympliroste apo to windy.com)
+  CCL: —  (sympliroste apo to windy.com)
+  TCON: —  (sympliroste apo to windy.com)

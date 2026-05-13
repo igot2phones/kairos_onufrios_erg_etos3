@@ -1,0 +1,28 @@
+Apotelesmata analysis radiovolisis
+Stathmos: Thessaloniki (Airport)
+Imerominia/ora: 2026-04-22 00:00 UTC
+
+Epifaneiakes times:
+  T  = 12.70 °C
+  Td = 9.35 °C
+  T - Td = 3.35 K
+
+Proseggistikoi ypologismoi (statheres adiavatikes thermovathmides):
+  Gamma_d   = 9.8 K/km (ksiros aeras)
+  Gamma_dew = 1.8 K/km (simeio drosou)
+
+  LCL  (epipedo sympyknosis logo eksanagasmenis anodou)
+    ipsos panw apo tin epifaneia: 419 m
+    geodynamiko ipsos:            422 m
+
+  CCL  (epipedo sympyknosis logo thermikis metaforas)
+    ipsos panw apo tin epifaneia: 1293 m
+    geodynamiko ipsos:            1296 m
+    T sto CCL:                    7.02 °C
+
+  TCON (thermokrasia enausis):    19.69 °C
+
+Antistoixes times apo to windy.com:
+  LCL: 428 m
+  CCL: 1290 m
+  TCON: 20 °C
